@@ -1,0 +1,31 @@
+.grow-h6{
+    color: #FF3147;
+    margin-left: 40%;
+}
+.grow-h4{
+    font-weight: bold;
+    margin-left: 35%;
+    margin-bottom: 2rem;
+}
+.grow-box2{
+ margin-left: 12%;
+
+}
+
+.grow-img{
+    height: 20px;
+    width: 20px;
+}
+.grow-h2{
+    font-size: 2rem;
+    font-weight: 420;
+    padding-top: 2rem;
+    padding-bottom: 0.3rem;
+    line-height: 0;
+}
+.grow-p{
+    font-size: 0.8rem;
+}
+.grow-b1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
