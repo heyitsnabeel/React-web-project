@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/React-web-project/static/css/main.96e345c2.css",
+    "main.js": "/React-web-project/static/js/main.e1183647.js",
+    "static/media/img12.avif": "/React-web-project/static/media/img12.636335f831bc2eff2571.avif",
+    "static/media/image.png": "/React-web-project/static/media/image.97a89700e50cd1065041.png",
+    "static/media/hero.png": "/React-web-project/static/media/hero.414e5ec43fd4a0e6bf96.png",
+    "static/media/img2.jpg": "/React-web-project/static/media/img2.ef9ebbf33ef615a8ffeb.jpg",
+    "static/media/2.png": "/React-web-project/static/media/2.fd5859ed8789dece97cf.png",
+    "static/media/1.png": "/React-web-project/static/media/1.d48a57447f307b4454b0.png",
+    "static/media/img7.jpg": "/React-web-project/static/media/img7.3db179a3a4bdb77a7140.jpg",
+    "static/media/img11.jpeg": "/React-web-project/static/media/img11.4b24d2e17c77e47cced7.jpeg",
+    "static/media/img9.webp": "/React-web-project/static/media/img9.414dbaa1c347526ba935.webp",
+    "static/media/img15.jpg": "/React-web-project/static/media/img15.c977bc2a5045c4c4d8d1.jpg",
+    "static/media/img10.avif": "/React-web-project/static/media/img10.1e8aa52ce1d0818eed1f.avif",
+    "static/media/img5.avif": "/React-web-project/static/media/img5.8ef83442f6d56c99d853.avif",
+    "static/media/Group 500.png": "/React-web-project/static/media/Group 500.b4ed8924ad10015d794d.png",
+    "static/media/img14.jpg": "/React-web-project/static/media/img14.588828bb81226a1e6777.jpg",
+    "static/media/img6.jpg": "/React-web-project/static/media/img6.9aae37f9e104a2cad012.jpg",
+    "static/media/icon.svg": "/React-web-project/static/media/icon.ce2a24c3e0264767975b36bfd22dd175.svg",
+    "static/media/Path 4406.svg": "/React-web-project/static/media/Path 4406.684bb06c282828ab8ed96016d78c001e.svg",
+    "index.html": "/React-web-project/index.html",
+    "static/media/1.svg": "/React-web-project/static/media/1.c15fc2b2c2b8541048a16ad93512a733.svg",
+    "static/media/clock (3).svg": "/React-web-project/static/media/clock (3).6a40be01235feba7385ae404a1147e0e.svg",
+    "static/media/heart (2).svg": "/React-web-project/static/media/heart (2).b4f830afbe8830b90b3e1b5ac5defe9d.svg",
+    "static/media/Path 4402.svg": "/React-web-project/static/media/Path 4402.97b991815dabd433bc8ce0e0abcbf49b.svg",
+    "static/media/arrow.svg": "/React-web-project/static/media/arrow.e5e6a309049643a7cfb7ece845d930c6.svg",
+    "static/media/NoPath - Copy.svg": "/React-web-project/static/media/NoPath - Copy.fe74e295fc4ed4a9e1a6.svg",
+    "static/media/2.svg": "/React-web-project/static/media/2.deae7025ad802cbbf2106e2009b3a7a8.svg",
+    "static/media/3.svg": "/React-web-project/static/media/3.deae7025ad802cbbf2106e2009b3a7a8.svg",
+    "main.96e345c2.css.map": "/React-web-project/static/css/main.96e345c2.css.map",
+    "main.e1183647.js.map": "/React-web-project/static/js/main.e1183647.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96e345c2.css",
+    "static/js/main.e1183647.js"
+  ]
+}
